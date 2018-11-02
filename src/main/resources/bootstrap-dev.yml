@@ -1,0 +1,11 @@
+spring:
+  cloud:
+      consul:
+          discovery:
+                  enabled: false
+      service-registry:
+        auto-registration:
+          enabled: false
+
+rocketmq:
+  test: true
