@@ -1,6 +1,7 @@
 package com.zhibi.taoge.common.vo;
 
-import com.alibaba.rocketmq.shade.com.alibaba.fastjson.JSONObject;
+
+import com.alibaba.fastjson.JSONObject;
 
 import javax.persistence.Transient;
 import java.io.Serializable;

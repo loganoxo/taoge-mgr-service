@@ -1,6 +1,6 @@
 package com.zhibi.taoge.common.generator;
 
-import com.alibaba.rocketmq.shade.com.alibaba.fastjson.JSONObject;
+import com.alibaba.fastjson.JSONObject;
 import com.google.common.collect.Maps;
 import org.hibernate.HibernateException;
 import org.hibernate.engine.spi.SharedSessionContractImplementor;
