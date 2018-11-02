@@ -41,11 +41,11 @@
         <!--</exclusion>-->
         <!--</exclusions>-->
         <!--</dependency>-->
-        <dependency>
-            <groupId>com.alibaba.rocketmq</groupId>
-            <artifactId>rocketmq-client</artifactId>
-            <version>3.5.8</version>
-        </dependency>
+        <!--<dependency>-->
+        <!--<groupId>com.alibaba.rocketmq</groupId>-->
+        <!--<artifactId>rocketmq-client</artifactId>-->
+        <!--<version>3.5.8</version>-->
+        <!--</dependency>-->
         <!--<dependency>-->
         <!--<groupId>com.zhibi.xiuba</groupId>-->
         <!--<artifactId>rocketmq-starter</artifactId>-->
